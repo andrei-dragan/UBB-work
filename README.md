@@ -1,3 +1,5 @@
 # 👨‍🎓 University work
 
-Here you will find almost all the things I did during univeristy - homework, bonuses and different kind of projects.
+Here you will find some of the things I worked on while studing computer science at Babeș-Bolyai University.
+
+- Fundamentals of programming 
